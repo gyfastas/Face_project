@@ -1,0 +1,9 @@
+pyqt5
+opencv-python
+torch
+pymysql
+tensorflow
+mtcnn
+numpy
+git+https://github.com/pytorch/tnt.git@master
+torchvision
